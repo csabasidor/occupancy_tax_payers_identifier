@@ -11,5 +11,5 @@ Set of python and pgsql scripts as a proof of concept to identify and harvest da
 # WARNING 1
 The scripts were created only for scientific purposes as a proof of concept for identification of possible local occupacny tax evaders.
 
-# I here by condem any use of these primitive scripts for commercial or any other usage.
+# I here by condem any use of these simple scripts for commercial or any other usage.
 
